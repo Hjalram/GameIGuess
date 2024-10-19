@@ -6,7 +6,7 @@
 
 int main()
 {
-    InitWindow(WIDTH, HEIGHT, "Cross Platform Game");
+    InitWindow(WIDTH, HEIGHT, "Game I Guess");
     SetTargetFPS(60);
 
     while (!WindowShouldClose())
